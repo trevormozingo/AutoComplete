@@ -1,0 +1,9 @@
+c:\users\trevor\documents\visual studio 2013\Projects\TrieTreeAutoComplete\TrieTreeAutoComplete\bin\Debug\TrieTreeAutoComplete.exe.config
+c:\users\trevor\documents\visual studio 2013\Projects\TrieTreeAutoComplete\TrieTreeAutoComplete\bin\Debug\TrieTreeAutoComplete.exe
+c:\users\trevor\documents\visual studio 2013\Projects\TrieTreeAutoComplete\TrieTreeAutoComplete\bin\Debug\TrieTreeAutoComplete.pdb
+c:\users\trevor\documents\visual studio 2013\Projects\TrieTreeAutoComplete\TrieTreeAutoComplete\obj\Debug\TrieTreeAutoComplete.csprojResolveAssemblyReference.cache
+c:\users\trevor\documents\visual studio 2013\Projects\TrieTreeAutoComplete\TrieTreeAutoComplete\obj\Debug\TrieTreeAutoComplete.Properties.Resources.resources
+c:\users\trevor\documents\visual studio 2013\Projects\TrieTreeAutoComplete\TrieTreeAutoComplete\obj\Debug\TrieTreeAutoComplete.csproj.GenerateResource.Cache
+c:\users\trevor\documents\visual studio 2013\Projects\TrieTreeAutoComplete\TrieTreeAutoComplete\obj\Debug\TrieTreeAutoComplete.exe
+c:\users\trevor\documents\visual studio 2013\Projects\TrieTreeAutoComplete\TrieTreeAutoComplete\obj\Debug\TrieTreeAutoComplete.pdb
+c:\users\trevor\documents\visual studio 2013\Projects\TrieTreeAutoComplete\TrieTreeAutoComplete\obj\Debug\TrieTreeAutoComplete.Form1.resources
